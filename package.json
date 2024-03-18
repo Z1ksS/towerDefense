@@ -1,0 +1,15 @@
+{
+  "name": "towerdefense",
+  "version": "1.0.0",
+  "description": "Tower Defense game program for test task",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "Heorhii Luzhanskyi",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
