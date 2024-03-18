@@ -11,7 +11,7 @@ There can be combination of enemy sets, that couldn't be defeated even if the va
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Z1ksS/tower-defense-game-test.git
+git clone https://github.com/Z1ksS/towerDefense.git
 ```
 
 2. Navigate to the project directory:
