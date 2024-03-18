@@ -17,7 +17,7 @@ git clone https://github.com/Z1ksS/tower-defense-game-test.git
 2. Navigate to the project directory:
 
 ```bash 
-cd tower-defense-game
+cd towerDefense
 ```
 
 3. Install the dependencies:
